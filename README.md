@@ -1,1 +1,0 @@
-![DVAGO Pharmacy Preview](./src/assets//dvago-preview.png)
